@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1724459496,
+	"version": 1724639117,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,6 +13,8 @@
 		"images/bg1-sheet1.png",
 		"images/bg1-sheet2.png",
 		"images/bg1-sheet3.png",
+		"images/bg1-sheet4.png",
+		"images/bg1-sheet5.png",
 		"images/btsignup-sheet0.png",
 		"images/bg3-sheet0.png",
 		"images/bt_login2-sheet0.png",
@@ -153,6 +155,7 @@
 		"images/feedback-sheet0.png",
 		"images/bgcreator-sheet0.png",
 		"images/bt_report-sheet0.png",
+		"images/bt_search-sheet0.png",
 		"media/1.早上.m4a",
 		"media/1.早上.ogg",
 		"media/2.中午.m4a",
